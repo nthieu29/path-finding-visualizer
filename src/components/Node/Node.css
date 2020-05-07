@@ -1,0 +1,26 @@
+.node {
+    display: flex;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #64b5f6;
+}
+
+.node:hover {
+    background-color: greenyellow;
+}
+
+.visited {
+    background-color: #4fc3f7;
+}
+
+.blocked {
+    background-color: #78909c;
+}
+
+.startNode {
+    background-color: #66bb6a;
+}
+
+.endNode {
+    background-color: #ff9800;
+}

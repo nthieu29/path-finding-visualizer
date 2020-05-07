@@ -1,0 +1,6 @@
+.wrapper {
+    display: grid;
+    grid-gap: 1px;
+    justify-content: start;
+    align-content: start;
+}
