@@ -9,7 +9,7 @@ class Node extends Component {
             colIndex: this.props.col,
             isStartNode: this.props.isStartNode,
             isEndNode: this.props.isEndNode,
-            isVisited: this.prop.isVisited,
+            isVisited: this.props.isVisited,
             isBlocked: this.props.isBlocked
         }
     }
